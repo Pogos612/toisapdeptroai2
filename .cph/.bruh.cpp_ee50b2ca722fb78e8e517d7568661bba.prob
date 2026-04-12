@@ -1,0 +1,1 @@
+{"name":"Local: bruh","url":"d:\\Code\\bruh.cpp","tests":[{"id":1775924625949,"input":"1\n6 6\n4 10 3 4 4 3\n12 1 4 11 6 8\n","output":"28 0 4 28 4 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\bruh.cpp","group":"local","local":true}
